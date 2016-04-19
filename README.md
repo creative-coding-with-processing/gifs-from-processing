@@ -1,7 +1,7 @@
 # animation-export
 Export videos and gifs directly from Processing with a single line of code. 
 
-Just add one of the files to your sketch and call the export-function with a single line of code. 
+Just drag/add one of the files to your sketch and call the export-function.
 
 ````java
 //gif(frames);
